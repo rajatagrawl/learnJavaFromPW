@@ -5,6 +5,6 @@ public class Methods3 {
         Scanner scn = new Scanner(System.in);
 
         System.out.println("Hello World");
-
+        int x = scn.nextInt();
     }
 }
