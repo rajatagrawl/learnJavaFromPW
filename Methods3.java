@@ -6,5 +6,6 @@ public class Methods3 {
 
         System.out.println("Hello World");
         int x = scn.nextInt();
+        System.out.println(x);
     }
 }
