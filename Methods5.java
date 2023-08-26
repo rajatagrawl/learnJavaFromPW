@@ -11,7 +11,6 @@ public class Methods5 {
     }
 
     public static int min(int x, int y, int z){
-        System.out.println("Hello World");
         return (Math.min(x, Math.min(y,z)));
     }
 }
