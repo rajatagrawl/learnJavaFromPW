@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Array2_5 {
     public static void main(String[] args) {
+        System.out.println("Hello World");
         Scanner scn = new Scanner(System.in);
         System.out.println("Enter Array length:");
         int len = scn.nextInt();
