@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class ArrProb1_3 {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
+        System.out.println("Hello World");
         int len;
         System.out.println("Enter Array length");
         len = scn.nextInt();
