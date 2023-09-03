@@ -4,6 +4,7 @@ public class ArrProb2_4 {
     public static void main(String[] args){
         Scanner scn = new Scanner(System.in);
         System.out.println("Enter Array length:");
+        System.out.println("hello World");
         int len = scn.nextInt();
         int[] arr = new int[len];
         int[] ans = new int[106];
