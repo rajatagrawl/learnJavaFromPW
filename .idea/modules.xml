@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/_2dArrays/_2dArrays.iml" filepath="$PROJECT_DIR$/_2dArrays/_2dArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/learnJavaFromPW.iml" filepath="$PROJECT_DIR$/learnJavaFromPW.iml" />
     </modules>
   </component>
