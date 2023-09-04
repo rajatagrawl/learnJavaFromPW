@@ -25,6 +25,7 @@ public class ArrProb3_6 {
     }
 
     public static void main(String[] args) {
+        System.out.println("Hello World");
         Scanner scn = new Scanner(System.in);
         System.out.println("Enter Array length");
         int len = scn.nextInt();
