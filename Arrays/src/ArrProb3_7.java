@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class ArrProb3_7 {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
+        System.out.println("Hello World");
         System.out.println("Enter Array length");
         int len = scn.nextInt();
         int[] arr = new int[len];
