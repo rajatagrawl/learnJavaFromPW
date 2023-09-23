@@ -1,7 +1,7 @@
 # learnJavaFromPW
 
 1. ~~Arrays~~
-2. 2D-Arrays
+2. ~~2D-Arrays~~
 3. ArrayList
 4. Complexity
 5. Recursion
