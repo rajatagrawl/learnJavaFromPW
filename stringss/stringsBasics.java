@@ -2,5 +2,5 @@ package stringss;
 
 public class stringsBasics {
 
-  Hi
+  System.out.println("Hi");
 }
